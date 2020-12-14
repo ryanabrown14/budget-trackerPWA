@@ -54,4 +54,4 @@ function uploadExpense(){
         }
     }
 }
-window.addEventListener("online", uploadExpenses);
+window.addEventListener("online", uploadExpense);
